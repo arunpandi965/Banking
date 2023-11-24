@@ -21,7 +21,7 @@ while i < 5:
                balance=balance-withdraw
                print("available balance is:",balance)
      elif selectnumber=="4":
-          print("thank you")
-     else:
           print("your transection completed")
+     else:
+          print("thank you")
      i +=1
